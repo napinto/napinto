@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nádia Pinto
 - 👀 I’m interested in developing mathematical models and software for genetics/genomics
-- 📫 npinto@ipatimup.pt
+- 📫 npinto@i3s.up.pt
 
 <!---
 napinto/napinto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
